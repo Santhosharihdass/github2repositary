@@ -1,5 +1,5 @@
-@Library('Devops_Library@master) _
-node
-(
-  myfirstcode("indians")
-)
+@Library('Devops_Library@main') _
+
+node {
+    myfirstcode("indians")
+}
