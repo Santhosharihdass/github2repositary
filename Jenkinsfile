@@ -1,4 +1,4 @@
-@Library('Devops_Library@main') _
+@Library('shared-library@main') _
 
 node {
     myfirstcode("indians")
